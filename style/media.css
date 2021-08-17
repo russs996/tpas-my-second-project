@@ -1,0 +1,45 @@
+@media all and (max-width: 1150px) {
+    .navbar{
+        background-color: #F5F6F7;
+    }
+
+    .imeglast img, .imagelast2 img{
+        display: none;
+    }
+
+    .tittle__imeg, .tittle__imeg1 {
+        display: none;
+        /* position:absolute;
+        flex-wrap: wrap;
+        display: block;
+        width: 200px;
+        height: 200px; */
+    }
+}
+
+
+
+@media all and (max-width: 930px) {
+    .right__side5 p {
+        font-size: 10px;
+        margin-right: 100px;
+    }
+    
+    .logo5{
+        margin-left: 100px;
+    }
+    
+    .plp {
+
+        margin-top: 500px;
+    }
+
+    .text__2secp{
+        font-size: 16px;
+    }
+
+    .logo2{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
